@@ -29,13 +29,21 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box-text' markdown="1">
+<div class="pub-item">
+  <div class="pub-title-row">
+    <span class="pub-title">Non-interactive Secure Inference for Transformer Models via Homomorphic Encryption</span>
+    <span class="pub-badge conference">NDSS 2025</span>
+  </div>
 
-Efficient Fuzzy Private Set Intersection from Secret-shared OPRF <div class="badge">S&P 2026</div>
+  <div class="pub-authors">
+    Your Name, Coauthor1, Coauthor2
+  </div>
 
-Xinpeng Yang, Meng Hao*, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang
-
-Efficient Unbalanced Quorum PSI from Homomorphic Encryption
+  <div class="pub-links">
+    <a href="/assets/papers/ndss2025.pdf">Paper</a>
+    <a href="https://github.com/yourname/project">Code</a>
+  </div>
+</div>
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
