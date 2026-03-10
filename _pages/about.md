@@ -15,13 +15,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student at Nanyang Technological University (NTU), Singapore, supervised by Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my M.S. degree from Zhejiang University (ZJU) in 2025 and my B.S. degree from the National University of Defense Technology (NUDT) in 2022.
 
 My research interests include Secure Multi-party Computation (MPC), Homomorphic Encryption (HE), and Zero-Knowledge Proofs (ZKP).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="pub-item">
   <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy Private Set Intersection from Secret-shared OPRF</span>
-    <span class="pub-badge conference">AsiaCCS 2024</span>
+    <span class="pub-badge conference">S&P 2026</span>
     <!-- <a class="pub-link" href="https://dl.acm.org/doi/abs/10.1145/3634737.3657001">Paper</a> -->
     <!-- <a class="pub-link" href="[https://github.com/yourrepo](https://github.com/zju-abclab/NEXUS)">Code</a> -->
   </div>
