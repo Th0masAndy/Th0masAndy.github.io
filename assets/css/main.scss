@@ -107,3 +107,62 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.pub-item {
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.2rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.pub-title-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 0.4rem;
+}
+
+.pub-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.pub-authors {
+  font-size: 0.95rem;
+  color: #4b5563;
+  margin-bottom: 0.5rem;
+}
+
+.pub-links a {
+  margin-right: 0.8rem;
+  font-size: 0.92rem;
+  text-decoration: none;
+}
+
+.pub-badge {
+  display: inline-block;
+  padding: 0.18rem 0.6rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border-radius: 999px;
+  line-height: 1.4;
+}
+
+.pub-badge.conference {
+  background-color: #dbeafe;
+  color: #1d4ed8;
+}
+
+.pub-badge.journal {
+  background-color: #dcfce7;
+  color: #15803d;
+}
+
+.pub-badge.workshop {
+  background-color: #fef3c7;
+  color: #b45309;
+}
