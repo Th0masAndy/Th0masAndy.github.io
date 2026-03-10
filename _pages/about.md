@@ -28,20 +28,43 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-
 <div class="pub-item">
   <div class="pub-title-row">
-    <span class="pub-title">Non-interactive Secure Inference for Transformer Models via Homomorphic Encryption</span>
-    <span class="pub-badge conference">NDSS 2025</span>
-<a class="pub-link" href="/assets/papers/ndss2025.pdf">Paper</a>
-
-<a class="pub-link" href="https://github.com/yourrepo">Code</a>
+    <span class="pub-title">Efficient Fuzzy Private Set Intersection from Secret-shared OPRF</span>
+    <span class="pub-badge conference">AsiaCCS 2024</span>
+    <!-- <a class="pub-link" href="https://dl.acm.org/doi/abs/10.1145/3634737.3657001">Paper</a> -->
+    <!-- <a class="pub-link" href="[https://github.com/yourrepo](https://github.com/zju-abclab/NEXUS)">Code</a> -->
   </div>
 
   <div class="pub-authors">
-    Your Name, Coauthor1, Coauthor2
+     Xinpeng Yang, Meng Hao*, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang
   </div>
-  
+</div>
+
+<div class="pub-item">
+  <div class="pub-title-row">
+    <span class="pub-title">Secure Transformer Inference Made Non-interactive</span>
+    <span class="pub-badge conference">NDSS 2025</span>
+    <a class="pub-link" href="https://eprint.iacr.org/2024/136">Paper</a>
+    <a class="pub-link" href="https://github.com/zju-abclab/NEXUS">Code</a>
+  </div>
+
+  <div class="pub-authors">
+    Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title-row">
+    <span class="pub-title">Efficient Unbalanced Quorum PSI from Homomorphic Encryption</span>
+    <span class="pub-badge conference">AsiaCCS 2024</span>
+    <a class="pub-link" href="https://dl.acm.org/doi/abs/10.1145/3634737.3657001">Paper</a>
+    <!-- <a class="pub-link" href="[https://github.com/yourrepo](https://github.com/zju-abclab/NEXUS)">Code</a> -->
+  </div>
+
+  <div class="pub-authors">
+     Xinpeng Yang, Liang Cai, Yinghao Wang, Keting Yin, Lu Sun, Jingwei Hu
+  </div>
 </div>
 
 
