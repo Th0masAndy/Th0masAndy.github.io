@@ -28,15 +28,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class="badge">CVPR 2016</div>
 
 <div class='paper-box-text' markdown="1">
 
-Efficient Fuzzy Private Set Intersection from Secret-shared OPRF
+Efficient Fuzzy Private Set Intersection from Secret-shared OPRF <div class="badge">S&P 2026</div>
 
 Xinpeng Yang, Meng Hao*, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang
 
-*S&P 2026*
+Efficient Unbalanced Quorum PSI from Homomorphic Encryption
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
