@@ -33,16 +33,15 @@ My research interest includes neural machine translation and computer vision. I 
   <div class="pub-title-row">
     <span class="pub-title">Non-interactive Secure Inference for Transformer Models via Homomorphic Encryption</span>
     <span class="pub-badge conference">NDSS 2025</span>
+<a class="pub-link" href="/assets/papers/ndss2025.pdf">Paper</a>
+
+<a class="pub-link" href="https://github.com/yourrepo">Code</a>
   </div>
 
   <div class="pub-authors">
     Your Name, Coauthor1, Coauthor2
   </div>
-
-  <div class="pub-links">
-    <a href="/assets/papers/ndss2025.pdf">Paper</a>
-    <a href="https://github.com/yourname/project">Code</a>
-  </div>
+  
 </div>
 
 
