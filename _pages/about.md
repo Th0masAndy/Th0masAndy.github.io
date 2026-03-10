@@ -28,6 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class="badge">CVPR 2016</div>
 
 <div class='paper-box-text' markdown="1">
 
