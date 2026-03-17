@@ -31,7 +31,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
 -->
 
 # 📝 Publications 
-(* denotes corresponding author, # denotes equal contribution)
+* denotes corresponding author, # denotes equal contribution
 <div class="pub-item">
   <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy Private Set Intersection from Secret-shared OPRF</span>
