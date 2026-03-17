@@ -31,7 +31,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
 -->
 
 # 📝 Publications 
-
+(* denotes corresponding author, # denotes equal contribution)
 <div class="pub-item">
   <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy Private Set Intersection from Secret-shared OPRF</span>
@@ -54,7 +54,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-    Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang
+    Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu*, Kui Ren, Xiaohu Yang
   </div>
 </div>
 
@@ -67,7 +67,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-     Xinpeng Yang, Liang Cai, Yinghao Wang, Keting Yin, Lu Sun, Jingwei Hu
+     Xinpeng Yang, Liang Cai, Yinghao Wang, Keting Yin, Lu Sun, Jingwei Hu*
   </div>
 </div>
 
