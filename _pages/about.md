@@ -36,8 +36,8 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy Private Set Intersection from Secret-shared OPRF</span>
     <span class="pub-badge conference">S&P 2026</span>
-    <!-- <a class="pub-link" href="https://dl.acm.org/doi/abs/10.1145/3634737.3657001">Paper</a> -->
-    <!-- <a class="pub-link" href="[https://github.com/yourrepo](https://github.com/zju-abclab/NEXUS)">Code</a> -->
+    <a class="pub-link" href="https://arxiv.org/abs/2604.14909">Paper</a>
+    <a class="pub-link" href="https://github.com/Th0masAndy/FPSI">Code</a>
   </div>
 
   <div class="pub-authors">
@@ -63,7 +63,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
     <span class="pub-title">Efficient Unbalanced Quorum PSI from Homomorphic Encryption</span>
     <span class="pub-badge conference">AsiaCCS 2024</span>
     <a class="pub-link" href="https://dl.acm.org/doi/abs/10.1145/3634737.3657001">Paper</a>
-    <!-- <a class="pub-link" href="[https://github.com/yourrepo](https://github.com/zju-abclab/NEXUS)">Code</a> -->
+    <a class="pub-link" href="https://github.com/Blockchain-Research-Center/APSI-Circuit/tree/memory">Code</a>
   </div>
 
   <div class="pub-authors">
