@@ -41,7 +41,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-    Meng Hao*, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng
+    Meng Hao, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng
   </div>
 </div>
 
@@ -54,7 +54,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-    Meng Hao*, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng
+    Meng Hao, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng
   </div>
 </div>
 
