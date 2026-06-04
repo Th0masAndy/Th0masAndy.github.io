@@ -34,6 +34,32 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
 \* denotes corresponding author, # denotes equal contribution
 <div class="pub-item">
   <div class="pub-title-row">
+    <span class="pub-title">Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching</span>
+    <span class="pub-badge conference">CCS 2026</span>
+    <a class="pub-link" href="">Paper</a>
+    <a class="pub-link" href="">Code</a>
+  </div>
+
+  <div class="pub-authors">
+    Meng Hao*, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title-row">
+    <span class="pub-title">Enhanced Private Set Union from Secret-shared Private Membership Test</span>
+    <span class="pub-badge conference">USENIX 2026</span>
+    <a class="pub-link" href="">Paper</a>
+    <a class="pub-link" href="https://github.com/CryptMatrix/ePSU-from-ssPMT">Code</a>
+  </div>
+
+  <div class="pub-authors">
+    Meng Hao*, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy Private Set Intersection from Secret-shared OPRF</span>
     <span class="pub-badge conference">S&P 2026</span>
     <a class="pub-link" href="https://arxiv.org/abs/2604.14909">Paper</a>
