@@ -37,7 +37,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
     <span class="pub-title">Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching</span>
     <span class="pub-badge conference">CCS 2026</span>
     <a class="pub-link" href="">Paper</a>
-    <a class="pub-link" href="">Code</a>
+    <a class="pub-link" href="https://github.com/Th0masAndy/Scalable-FPSI">Code</a>
   </div>
 
   <div class="pub-authors">
