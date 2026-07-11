@@ -62,7 +62,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy Private Set Intersection from Secret-shared OPRF</span>
     <span class="pub-badge conference">S&P 2026</span>
-    <a class="pub-link" href="https://arxiv.org/abs/2604.14909">Paper</a>
+    <a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/11573503">Paper</a>
     <a class="pub-link" href="https://github.com/Th0masAndy/FPSI">Code</a>
   </div>
 
