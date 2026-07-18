@@ -32,6 +32,19 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
 
 # 📝 Publications 
 \* denotes corresponding author, # denotes equal contribution
+
+<div class="pub-item">
+  <div class="pub-title-row">
+    <span class="pub-title">Efficient Fuzzy PSI under One-Sided Assumptions</span>
+    <span class="pub-badge conference">CCS 2026</span>
+    <a class="pub-link" href="">Paper</a>
+    <a class="pub-link" href="https://anonymous.4open.science/r/FPSI-One-Sided-1325">Code</a>
+  </div>
+  <div class="pub-authors">
+    Xinpeng Yang, Meng Hao*, Yanxue Jia, Chenkai Weng, Yonggang Wen, Tianwei Zhang
+  </div>
+</div>
+
 <div class="pub-item">
   <div class="pub-title-row">
     <span class="pub-title">Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching</span>
@@ -41,7 +54,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-    Meng Hao, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng
+    Meng Hao, Xinpeng Yang, Hanxiao Chen*, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li*, Robert H. Deng
   </div>
 </div>
 
@@ -54,7 +67,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-    Meng Hao, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen*, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng
+    Meng Hao, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen*, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li*, Robert H. Deng
   </div>
 </div>
 
