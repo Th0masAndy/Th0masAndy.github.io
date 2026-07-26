@@ -41,7 +41,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
     <a class="pub-link" href="https://anonymous.4open.science/r/FPSI-One-Sided-1325">Code</a>
   </div>
   <div class="pub-authors">
-    <b>Xinpeng Yang</b>, Meng Hao*, Yanxue Jia, Chenkai Weng, Yonggang Wen, Tianwei Zhang
+    <strong>Xinpeng Yang</strong>, Meng Hao*, Yanxue Jia, Chenkai Weng, Yonggang Wen, Tianwei Zhang
   </div>
 </div>
 
