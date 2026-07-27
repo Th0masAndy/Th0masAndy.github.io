@@ -41,7 +41,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
     <a class="pub-link" href="https://anonymous.4open.science/r/FPSI-One-Sided-1325">Code</a>
   </div>
   <div class="pub-authors">
-    Xinpeng Yang, Meng Hao*, Yanxue Jia, Chenkai Weng, Yonggang Wen, Tianwei Zhang
+    <span class="pub-self-author">Xinpeng Yang</span>, Meng Hao*, Yanxue Jia, Chenkai Weng, Yonggang Wen, Tianwei Zhang
   </div>
 </div>
 
@@ -54,7 +54,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-    Meng Hao, Xinpeng Yang, Hanxiao Chen*, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li*, Robert H. Deng
+    Meng Hao, <span class="pub-self-author">Xinpeng Yang</span>, Hanxiao Chen*, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li*, Robert H. Deng
   </div>
 </div>
 
@@ -67,7 +67,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-    Meng Hao, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen*, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li*, Robert H. Deng
+    Meng Hao, Guodong Wang, <span class="pub-self-author">Xinpeng Yang</span>, Pengzhi Xing, Hanxiao Chen*, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li*, Robert H. Deng
   </div>
 </div>
 
@@ -80,7 +80,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-     Xinpeng Yang, Meng Hao*, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang
+     <span class="pub-self-author">Xinpeng Yang</span>, Meng Hao*, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang
   </div>
 </div>
 
@@ -93,7 +93,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-    Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu*, Kui Ren, Xiaohu Yang
+    Jiawen Zhang, <span class="pub-self-author">Xinpeng Yang</span>, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu*, Kui Ren, Xiaohu Yang
   </div>
 </div>
 
@@ -106,7 +106,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   </div>
 
   <div class="pub-authors">
-     Xinpeng Yang, Liang Cai, Yinghao Wang, Keting Yin, Lu Sun, Jingwei Hu*
+     <span class="pub-self-author">Xinpeng Yang</span>, Liang Cai, Yinghao Wang, Keting Yin, Lu Sun, Jingwei Hu*
   </div>
 </div>
 
@@ -135,4 +135,3 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
 # 💻 Services
 Sub-Reviewer:
 - CRYPTO 2026
-
