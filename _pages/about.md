@@ -37,7 +37,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy PSI under One-Sided Assumptions</span>
     <span class="pub-badge conference">CCS 2026</span>
-    <a class="pub-link" href="">Paper</a>
+    <a class="pub-link" href="{{ '/files/papers/26-ccs-1.pdf' | relative_url }}">Paper</a>
     <a class="pub-link" href="https://anonymous.4open.science/r/FPSI-One-Sided-1325">Code</a>
   </div>
   <div class="pub-authors">
@@ -49,7 +49,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   <div class="pub-title-row">
     <span class="pub-title">Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching</span>
     <span class="pub-badge conference">CCS 2026</span>
-    <a class="pub-link" href="">Paper</a>
+    <a class="pub-link" href="{{ '/files/papers/26-ccs-2.pdf' | relative_url }}">Paper</a>
     <a class="pub-link" href="https://github.com/Th0masAndy/Scalable-FPSI">Code</a>
   </div>
 
@@ -62,7 +62,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   <div class="pub-title-row">
     <span class="pub-title">Enhanced Private Set Union from Secret-shared Private Membership Test</span>
     <span class="pub-badge conference">USENIX 2026</span>
-    <a class="pub-link" href="">Paper</a>
+    <a class="pub-link" href="{{ '/files/papers/26-usenix-1.pdf' | relative_url }}">Paper</a>
     <a class="pub-link" href="https://github.com/CryptMatrix/ePSU-from-ssPMT">Code</a>
   </div>
 
