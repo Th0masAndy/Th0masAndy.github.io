@@ -37,8 +37,8 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy PSI under One-Sided Assumptions</span>
     <span class="pub-badge conference">CCS 2026</span>
-    <a class="pub-link" href="{{ '/files/papers/26-ccs-1.pdf' | relative_url }}">Paper</a>
-    <a class="pub-link" href="https://anonymous.4open.science/r/FPSI-One-Sided-1325">Code</a>
+    <a class="pub-link" href="https://arxiv.org/abs/2608.17770">Paper</a>
+    <a class="pub-link" href="https://github.com/Th0masAndy/FPSI-One-Sided">Code</a>
   </div>
   <div class="pub-authors">
     <span class="pub-self-author">Xinpeng Yang</span>, Meng Hao*, Yanxue Jia, Chenkai Weng, Yonggang Wen, Tianwei Zhang
@@ -49,7 +49,7 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
   <div class="pub-title-row">
     <span class="pub-title">Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching</span>
     <span class="pub-badge conference">CCS 2026</span>
-    <a class="pub-link" href="{{ '/files/papers/26-ccs-2.pdf' | relative_url }}">Paper</a>
+    <a class="pub-link" href="https://arxiv.org/abs/2608.11526">Paper</a>
     <a class="pub-link" href="https://github.com/Th0masAndy/Scalable-FPSI">Code</a>
   </div>
 
