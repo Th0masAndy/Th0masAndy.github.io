@@ -35,6 +35,18 @@ My research interests include Secure Multi-party Computation (MPC), Homomorphic 
 
 <div class="pub-item">
   <div class="pub-title-row">
+    <span class="pub-title">SecDVA: A Maliciously Secure Multi-Party Framework for Data Value Assessment in Modern Machine Learning Data Markets</span>
+    <span class="pub-badge conference">ICDE 2027</span>
+    <a class="pub-link" href="">Paper</a>
+    <a class="pub-link" href="">Code</a>
+  </div>
+  <div class="pub-authors">
+    Lixu Wang#, <span class="pub-self-author">Xinpeng Yang</span>#, Meng Hao, Guangyi Zhang, Tianwei Zhang, Wei Dong*, Chenkai Weng
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title-row">
     <span class="pub-title">Efficient Fuzzy PSI under One-Sided Assumptions</span>
     <span class="pub-badge conference">CCS 2026</span>
     <a class="pub-link" href="https://arxiv.org/abs/2608.17770">Paper</a>
